@@ -1,17 +1,4 @@
-# mybook_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# https://github.com/Yurischaays15/project-flutter-uas-dicoding.git
+![WhatsApp Image 2021-06-12 at 08 55 01(1)](https://user-images.githubusercontent.com/76260680/121768429-56f7c000-cb88-11eb-97f4-1540f98078c1.jpeg)
+![WhatsApp Image 2021-06-12 at 08 55 01](https://user-images.githubusercontent.com/76260680/121768430-59f2b080-cb88-11eb-8923-6b43337691e7.jpeg)
+![WhatsApp Image 2021-06-12 at 08 55 01(2)](https://user-images.githubusercontent.com/76260680/121768432-5d863780-cb88-11eb-8822-52a6e45fa2d1.jpeg)
+![WhatsApp Image 2021-06-12 at 08 55 01(3)](https://user-images.githubusercontent.com/76260680/121768434-5e1ece00-cb88-11eb-8b84-647f9b7a554d.jpeg)
